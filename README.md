@@ -1,6 +1,12 @@
-# Volunteer Network is a full-stack project with a real time database where different volunteering works are shown.
-# User on this website can select those volunteering works and can register himself as a part of the particular volunteering work.
-# Besides, this project provides an admin dashboard where an admin can manage user registered volunteering works and also can add new work in the database.
+# Used Technologies
+## ReactJS, ExpressJS, JavaScript, Boostrap, MongoDB, Firebase auth, Heroku.
+# Features
+## MERN project with real-time database shows different volunteering options. 
+## User selects any work and register for the volunteering.
+## User has his own dashboard to see his selected works.
+## Admin has a different dashboard which showing which user registerd for which work on which date.
+## If admin wants, he can delete the registration of any user.
+## Admin also can add a new volunterring work option.
 
-
-front-end repository: https://github.com/BK-Bagchi/vlounteer-network
+#### see live website here https://volunteers-network.web.app/
+#### front-end repository: https://github.com/BK-Bagchi/vlounteer-network
